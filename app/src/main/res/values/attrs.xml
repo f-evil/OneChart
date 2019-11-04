@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="OneChartView">
+
+        <attr name="one_title_name" format="string" />
+        <attr name="one_title_color" format="color" />
+        <attr name="one_title_size" format="dimension" />
+
+        <attr name="one_subtitle_name" format="string" />
+        <attr name="one_subtitle_color" format="color" />
+        <attr name="one_subtitle_size" format="dimension" />
+
+        <attr name="one_x_axis_color" format="color" />
+        <attr name="one_x_axis_size" format="dimension" />
+
+        <attr name="one_x_axis_text_color" format="color" />
+        <attr name="one_x_axis_text_size" format="dimension" />
+
+
+    </declare-styleable>
+
+
+</resources>
