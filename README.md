@@ -170,18 +170,22 @@ public class XChatDataBean implements Serializable {
 ##### 7.2.3 坐标转换
 - 使用 Matrix 矩阵方式转换
 
-##### 7.3.3 点击区域判定
+##### 7.2.3 点击区域判定
 - 使用 Region 区域判定
 
-#### 7.2 绘制顺序梳理
+#### 7.3 绘制顺序梳理
 1. 绘制标题
 2. 绘制背景(包含x轴，y轴背景线)
 3. 绘制左侧坐标轴
 4. 绘制中间数据
 5. 绘制右侧坐标轴
 
-### 博客地址
+### 8. 博客地址
 [OneChart](http://www.nooocat.com/index.php/2019/11/04/283/)
 
+
+### 9. 系列文章
+- [1. 自定义View入门学习-OneChart](http://www.nooocat.com/index.php/2019/11/04/283/)
+- [ 2. 自定义View入门学习-WheelView](http://www.nooocat.com/index.php/2019/11/15/296/)
 
 
