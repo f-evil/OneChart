@@ -1,4 +1,9 @@
 ## OneChart项目介绍
+
+### 0. 系列文章
+- [1. 自定义View入门学习-OneChart](http://www.nooocat.com/index.php/2019/11/04/283/)
+- [2. 自定义View入门学习-WheelView](http://www.nooocat.com/index.php/2019/11/15/296/)
+
 ### 1. 原始效果图
 ![原始效果图](http://www.nooocat.com/wp-content/uploads/2019/11/TIM截图20191028133344.jpg)
 
@@ -182,10 +187,5 @@ public class XChatDataBean implements Serializable {
 
 ### 8. 博客地址
 [OneChart](http://www.nooocat.com/index.php/2019/11/04/283/)
-
-
-### 9. 系列文章
-- [1. 自定义View入门学习-OneChart](http://www.nooocat.com/index.php/2019/11/04/283/)
-- [ 2. 自定义View入门学习-WheelView](http://www.nooocat.com/index.php/2019/11/15/296/)
 
 
